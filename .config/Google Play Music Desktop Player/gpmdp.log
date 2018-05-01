@@ -1,0 +1,51 @@
+{"level":"info","message":"Application started.","timestamp":"2018-02-24T01:26:07.077Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-24T02:42:13.463Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-24T02:55:29.972Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-02-24T04:52:49.626Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-24T05:57:41.473Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-02-24T06:19:19.000Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T02:28:31.841Z"}
+{"level":"error","message":"################### !! Update server down !! ##################","timestamp":"2018-02-25T02:28:32.549Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T02:30:27.950Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-02-25T02:32:45.481Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T04:16:45.788Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T06:22:54.918Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T09:23:37.729Z"}
+{"level":"error","message":"################### !! Update server down !! ##################","timestamp":"2018-02-25T09:28:38.693Z"}
+{"level":"error","message":"################### !! Update server down !! ##################","timestamp":"2018-02-25T09:30:58.753Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T10:25:30.931Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-02-25T11:40:19.526Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T11:40:29.526Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T12:21:11.280Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T13:03:31.639Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-25T13:54:44.880Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-27T02:37:56.093Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-02-28T02:07:46.236Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-02-28T15:11:10.332Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T01:33:10.343Z"}
+{"level":"error","message":"################### !! Update server down !! ##################","timestamp":"2018-03-02T01:33:30.742Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-02T01:36:27.043Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T01:36:29.884Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T01:41:45.120Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-02T02:45:58.969Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T02:46:04.765Z"}
+{"level":"error","message":"Could not initialize bonjour service with error: {\"errorCode\":-65537}","timestamp":"2018-03-02T02:46:06.149Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-02T02:47:36.493Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T02:48:48.068Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-02T11:46:18.570Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T11:59:49.896Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-02T14:18:31.908Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T14:18:35.972Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-02T15:42:56.054Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-03T02:54:11.198Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-05T15:27:04.493Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-05T15:27:26.849Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-10T03:41:00.743Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-10T04:43:15.363Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-12T03:26:32.827Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-14T02:29:22.497Z"}
+{"level":"info","message":"Application exiting...","timestamp":"2018-03-14T03:35:39.015Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-14T05:46:45.966Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-14T07:47:42.336Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-14T09:25:16.300Z"}
+{"level":"info","message":"Application started.","timestamp":"2018-03-16T21:04:51.828Z"}

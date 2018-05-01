@@ -1,0 +1,21 @@
+{
+    "playing": false,
+    "song": {
+        "title": "All I Heard",
+        "artist": "Mitzi",
+        "album": "Majestic Casual Chapter I",
+        "albumArt": "https://lh6.ggpht.com/hTit5TkmBvajzAA3JTZGp_bAro_2Wsrb6frAT0kVHgEoudwAooS53jWOJTeeAcQUF9D7scb0AA"
+    },
+    "rating": {
+        "liked": false,
+        "disliked": false
+    },
+    "time": {
+        "current": 285708,
+        "total": 305000
+    },
+    "songLyrics": "The hotel and the door\nThe people want some more\nThe footsteps drag behind\nI'll get you if I try\n\nI can't stop\nKnowing you will find\nMake it hot\nAlways down the line\nI wont sleep\nIn the middle of the night\nSo follow me\nAnd only you will find\n\nWhen it comes the day\nYou come back to me\nBefore long\nYou will see\nIts all true\nEvery little word\nSo be calm\nThat's all I heard\nThat's all I heard\n\nThe motion on the ground\nThe pictures all around\nThe others left behind\nI'll find you if I try\n\nI can't stop\nKnowing you will find\nMake it hot\nAlways down the line\nI wont sleep\nIn the middle of the night\nSo follow me\nAnd only you will find\n\nWhen it comes the day\nYou come back to me\nBefore long\nYou will see\nIts all true\nEvery little word\nSo be calm\nThat's all I heard\nThat's all I heard\n\n",
+    "shuffle": "NO_SHUFFLE",
+    "repeat": "NO_REPEAT",
+    "volume": 75
+}

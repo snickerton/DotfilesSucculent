@@ -1,0 +1,84 @@
+urxvt.scrollBar: false
+!urxvt.transparent: true
+!urxvt.shading: 20
+
+!urxvt.tintColor: #172A47
+!urxvt.inheritPixmap: true
+urxvt.depth: 32
+
+urxvt.keysym.Control-Shift-V: perl:clipboard:paste
+urxvt.keysym.Control-Shift-C: perl:clipboard:copy
+
+urxvt.iso14755: False
+
+urxvt.perl-ext-common: default,clipboard
+
+!Fonts
+
+urxvt.font: xft:Ubuntu Mono:pixelsize=17,style=regular
+urxvt.boldFont: xft:Ubuntu Mono:pixelsize=17,style=bold
+urxvt.letterSpace: -1
+
+
+Xft.dpi: 96	
+Xft.antialias: true
+!Xft.rbga: none
+Xft.hintstyle: hintfull
+Xft.hinting: true
+
+*.internalBorder: 13
+
+
+! special
+!urxvt.foreground:   #placeholder
+!doesnt work because urxvt.transparent and tintcolor
+
+! special
+!*.foreground:   #70ef6e
+!*.foreground: #99ddff
+*.foreground: #8aeff4
+
+!HOLY SHIT IT WORKS
+!*.background:   [75]#172a47
+*.background: [75]#0b2545
+*.cursorColor:  #8aeff4
+
+
+
+
+! 1
+*.color0:       #5959af
+*.color8:       #333399
+
+! 2
+*.color1:       #7575c6
+*.color9:       #6666cc
+
+! 3 - Green 
+*.color2: 		#82ff80
+!	Name modifier
+*.color10:      #82ff80
+
+! 4 -
+*.color3:       #6be5cb
+
+*.color11:      #6be5cb
+
+
+! 5 -
+*.color4:       #72afff
+!FOLDERS
+*.color12:      #72afff
+
+
+! 6 - 
+*.color5:       #7cdcff
+*.color13:      #7cdcff
+
+! cyan
+*.color6:       #c7ff96
+*.color14:      #c7ff96
+
+! white (directory thing in username header)
+*.color7:       #cdffcc
+*.color15:      #cdffcc

@@ -1,0 +1,38 @@
+{
+    "auto-launch": false,
+    "enableJSON_API": true,
+    "miniUseScrollVolume": false,
+    "minToTray": false,
+    "nativeFrame": true,
+    "savePage": true,
+    "scrollLyrics": true,
+    "startMinimized": false,
+    "theme": true,
+    "themeColor": "#3e6ca0",
+    "themeType": "HIGHLIGHT_ONLY",
+    "themeTypeShouldTrackSystem": false,
+    "preventDisplaySleep": false,
+    "enableWin10MediaService": false,
+    "enableWin10MediaServiceTrackInfo": true,
+    "lastFMMapThumbToHeart": true,
+    "uuid": "e3edbe54-3ef8-4f35-8108-557ea05ab7fc",
+    "fullscreen": false,
+    "maximized": false,
+    "position": [
+        1285,
+        55
+    ],
+    "size": [
+        625,
+        1025
+    ],
+    "lastPage": "https://play.google.com/music/listen#/pl/AMaBXylghKSmQZPaEH30tSvomAcBW4oT1FspDyqZeHvpnQF3pw_-kmLzIgJd1mLg56TUQ14Hts7Mxx9B-QZYZfNiSa0f2ITV6Q%3D%3D",
+    "welcomed": "4.5.0",
+    "gpmdp_connect_email": "tonyzhu3141@gmail.com",
+    "speechRecognition": true,
+    "playbackAPI": false,
+    "mini-position": [
+        10,
+        40
+    ]
+}
