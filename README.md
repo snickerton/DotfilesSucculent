@@ -1,2 +1,4 @@
 # SucculentDotfiles
-Dotfiles for the rice Succelent on Arch Linux
+Dotfiles for the rice Succulent on Arch Linux!
+![Alt text](https://j.gifs.com/mQgprn.gif)
+
