@@ -1,17 +1,33 @@
-! ------------------------------------------------------------------------------
-! ROFI Color theme
-! ------------------------------------------------------------------------------
-rofi.color-enabled: true
-#		   			Window	  	  Border	 	 Separator
-rofi.color-window: argb:B0435e75, argb:D0435e75, argb:D0435e75
-
-#		  			 Background	  Foreground	 Alt Background Highlight Bg   Highlight Fg
-rofi.color-normal: argb:00435e75, argb:FF9dbeda, argb:00486883, argb:A02C3E4F, argb:D09dbeda
-rofi.color-active: argb:00435e75, argb:D0734375, argb:00486883, argb:A02C3E4F, argb:D0734375
-rofi.color-urgent: argb:00435e75, argb:D0b9524e, argb:00486883, argb:A02C3E4F, argb:D0b9524e
-
-
-
-
-rofi.font: MonacoB 14
-rofi.hide-scrollbar: true
+configuration {
+  width: 396;
+	lines: 18;
+  columns: 1;
+	font: "Cantarell 10";
+  location: 1;
+  padding: 5;
+  yoffset: 47;
+  xoffset: 27;
+  show-icons: true;
+  display-drun: "Run ";
+  drun-match-fields: "name,generic,exec,categories,keywords";
+  drun-show-actions: false;
+  drun-display-format: "{icon} {name} | {generic}";
+  drun-url-launcher: "brave";
+  sort: true;
+  sorting-method: "normal";
+  cycle: false;
+  combi-modi: "drun";
+  line-margin: 2;
+  line-padding: 15;
+  separator-style: "dash";
+  hide-scrollbar: false;
+  fullscreen: false;
+  fake-transparency: false;
+  scrollbar-width: 10;
+	color-normal: "#01112a, #40c4c6, #06162f, #dfb0a8, #06162f";
+	color-urgent: "argb:00000000, #f43753, argb:00000000, argb:00000000, #e29a49";
+	color-active: "argb:00000000, #49bbfb, argb:00000000, argb:00000000, #e29a49";
+	color-window: "#01112a, #01112a, #01112a";
+  max-history-size: 25;
+  kb-cancel: "Escape";
+}
